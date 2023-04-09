@@ -7,7 +7,7 @@ Hey y'all, this is a profile picture generator meant to mimic the 7 x 7 pixel th
 - Colors are random, the image is symmetrical vertically and horizontally, the points chosen are random, etc.
 - Chiefly built via Jupyter Notebooks and then transferred to .py. 
 - Please show me some love if you enjoyed this by sharing it with your brothas!
-- Code scalpers, piss off. Hater bitches on with the code scalpers 🖕.
+- Code scalpers, get fucked 🖕.
 
 # Install
 Installation is incredibly easy. 
