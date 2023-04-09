@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Jupyter Notebooks Extension
+*.ipynb
+
 # Distribution / packaging
 .Python
 build/
@@ -127,6 +130,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-#other ish
-*.ipynb
