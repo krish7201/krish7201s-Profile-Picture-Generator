@@ -3,11 +3,11 @@ Hey y'all, this is a profile picture generator meant to mimic the 7 x 7 pixel th
 
 # Description
 - Pictures come out 700px x 700px, the images shown below are samples (175px x 175px).
-- The profile pictures are very random so people will think you're not on any noob ish and also won't instantly know you're on the train. :)
+- The profile pictures are very random so people will think you're not on any newbie stuff and also won't instantly know you used it.
 - Colors are random, the image is symmetrical vertically and horizontally, the points chosen are random, etc.
 - Chiefly built via Jupyter Notebooks and then transferred to .py. 
-- Please show me some love if you enjoyed this by sharing it with your brothas!
-- Ciphered code, because code scalpers are whack.
+- Please show me some love if you enjoyed this by sharing it with your friends!
+- Ciphered code, because I'm worried about code scalpers.
 
 # Install
 Installation is incredibly easy. 
