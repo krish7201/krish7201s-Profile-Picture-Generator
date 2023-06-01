@@ -11,7 +11,7 @@ Hey y'all, this is a profile picture generator meant to mimic the 7 x 7 pixel th
 
 # Install
 Installation is incredibly easy. 
-1. Install Python on your computer 
+1. Install Python 3+ on your computer 
 2. Download the project via zip file, or how ever, to some folder and unzip it
 3. Run the .py file with the python interpreter you just installed and the picture will be generated. 
 4. The file will be named profile_picture.png and stored in the folder you unzipped the code in.
